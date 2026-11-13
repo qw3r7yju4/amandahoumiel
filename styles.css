@@ -331,6 +331,12 @@ a:hover {
   color: #f5f5f5;
 }
 
+.preface-emphasis {
+  display: block;
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
 /* Section Common Titles */
 .section-head {
   margin-bottom: 32px;
